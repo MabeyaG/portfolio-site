@@ -164,7 +164,7 @@ Feel free to reach out:
 
 ## License
 
-This project is open source. If you intend to reuse or modify, please check with the repository owner as there is currently no formal license specified.
+This project is open source. If you intend to reuse or modify, please check with the repository owner.
 
 ---
 
